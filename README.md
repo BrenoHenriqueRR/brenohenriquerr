@@ -1,5 +1,5 @@
 Olá! 👋 Eu sou o Breno Henrique
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=analise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+Full+Stack;Solucionador+de+Problemas;Entusiasta+de+Código&font=Fira%20Code&center=true&width=440&height=45&color=6366F1&vCenter=true&size=22"> </div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Solucionador+de+Problemas;Entusiasta+de+Código&font=Fira%20Code&center=true&width=440&height=45&color=6366F1&vCenter=true&size=22"> </div>
 🚀 Sobre Mim
 🎓 21 anos, estudante de Análise e Desenvolvimento de Sistemas
 
