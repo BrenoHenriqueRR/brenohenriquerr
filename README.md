@@ -1,5 +1,5 @@
 Olá! 👋 Eu sou o Breno Henrique
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+Full+Stack;Solucionador+de+Problemas;Entusiasta+de+Código&font=Fira%20Code&center=true&width=440&height=45&color=6366F1&vCenter=true&size=22"> </div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Análise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+Full+Stack;Solucionador+de+Problemas;Entusiasta+de+Código&font=Fira%20Code&center=true&width=440&height=45&color=6366F1&vCenter=true&size=22"> </div>
 🚀 Sobre Mim
 🎓 21 anos, estudante de Análise e Desenvolvimento de Sistemas
 
@@ -7,22 +7,18 @@ Olá! 👋 Eu sou o Breno Henrique
 
 🌱 Atualmente expandindo meus conhecimentos em tecnologias web modernas
 
-🎯 Objetivo: Tornar-me um desenvolvedor full stack versátil
+🎯 Objetivo: Ampliar o Meu Conhecimento e Ser Um Desenvolvedor Full Stack
 
 📍 Baseado no Brasil
 
 🛠️ Tecnologias que Utilizo
-Linguagens & Frameworks
-
-
+Linguagens de Programação & Frameworks
 
 
 
 
 
 Ferramentas & Tecnologias
-
-
 
 
 
@@ -65,12 +61,8 @@ Design responsivo para todos os dispositivos
 
 📚 Sempre buscando aprender novas tecnologias e boas práticas
 
-🚀 Defensor de código limpo e boa documentação
+🎮 Quando não estou programando, gosto de explorar novas tendências tecnológicas 
 
-🎮 Quando não estou programando, gosto de explorar novas tendências tecnológicas
-
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=brenohenriquerr&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=6366F1&style=flat" alt="brenohenriquerr" /> </div> <div align="center">
-"Código é como uma piada. Se você precisa explicar, é porque não é boa." – Cory House
 
 </div>
 ⭐️ Feito por brenohenriquerr
